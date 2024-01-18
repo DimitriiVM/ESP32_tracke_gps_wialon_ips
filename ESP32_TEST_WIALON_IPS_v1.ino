@@ -19,8 +19,8 @@ tx_pin: 17
 struct tm timeinfo;
 //Нужны для времени
 
-const char* ssid = "SG543644";
-const char* password = "1234qwerty";
+const char* ssid = "23423423";
+const char* password = "23423423423";
 
 const uint16_t port = 20332; // Порт сервера
 const char * host = "193.193.165.165"; //Айпи сервера
